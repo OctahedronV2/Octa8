@@ -1,5 +1,5 @@
 # Octa8
-### A poem written by Octahedron
+### A layout created by Octahedron
 
 ```
 y o u k x g w d l ,
