@@ -1,6 +1,4 @@
 # Octa8
-## Best layout.
+## A poem written by Octahedron
 
-youkxgwdl,
-iaenfbstrc;
-/zh'qvpmj.
+youkxgwdl, / iaenfbstrc; / /zh'qvpmj.
