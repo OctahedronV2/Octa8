@@ -10,7 +10,7 @@ i a e n f  b s t r c ;
 ## Fake Version (aka not angle-modded)
 ```
 y o u k x  g w d l , 
-i a e n f  b s t r c 
+i a e n f  b s t r c ;
 q / z h '  v p m j . 
 ```
 
